@@ -10,5 +10,5 @@ The python package **mysql-connector-python** is needed. Additionally, all insta
 ## Running the program
 The following must be done to run the program:
 
-1. Set the login credentials in */src/condig.py*
+1. Set the login credentials in */src/config.py*
 2. Run the program using **python3 src/pySQLconnectTest.py**
